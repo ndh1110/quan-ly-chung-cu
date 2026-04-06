@@ -14,11 +14,12 @@ import NewsSection from '../components/NewsSection';
 import LocationSection from '../components/LocationSection';
 import ProgressSection from '../components/ProgressSection';
 import PolicySection from '../components/PolicySection'; // <-- IMPORT MỚI
+//New import
 
 // Banner Hardcode
 const DashboardBanner = () => (
   <div 
-    className="h-64 md:h-80 bg-cover bg-center rounded-xl shadow-lg mb-10 flex items-center justify-center p-6 relative overflow-hidden"
+    className="h-64 md:h-81 bg-cover bg-center rounded-xl shadow-lg mb-10 flex items-center justify-center p-6 relative overflow-hidden"
     style={{ 
       // Ảnh tòa nhà chọc trời chất lượng cao từ Unsplash
       backgroundImage: `url('https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1600&q=80')`, 
