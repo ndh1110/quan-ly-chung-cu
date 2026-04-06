@@ -14,6 +14,7 @@ import NewsSection from '../components/NewsSection';
 import LocationSection from '../components/LocationSection';
 import ProgressSection from '../components/ProgressSection';
 import PolicySection from '../components/PolicySection'; // <-- IMPORT MỚI
+//New import
 
 // Banner Hardcode
 const DashboardBanner = () => (
